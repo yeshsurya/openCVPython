@@ -1,2 +1,2 @@
-# openCVPython
+# OenCV Python
 OpenCV Recipies
